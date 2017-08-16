@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- ListView Divider Size-->
+    <dimen name="list_view_divider">1dp</dimen>
+    <dimen name="hour">12sp</dimen>
+    <dimen name="date">12sp</dimen>
+    <dimen name="secton">12sp</dimen>
+
+
+</resources>

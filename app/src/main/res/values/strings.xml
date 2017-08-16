@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="search">Please type your book name...</string>
+    <string name="state_no_internet">There is no Internet connection! \n  Please check your connection and run you searches again</string>
+    <string name="no_news">No news have been found. </string>
+    <string name="author">author</string>
+    <string name="title">title</string>
+    <string name="unknow">Unknown</string>
+    <string name="display_information">displays relevant text and information about the story.</string>
+    <string name="section">Section</string>
+    <string name="hour">Hour</string>
+
+</resources>
